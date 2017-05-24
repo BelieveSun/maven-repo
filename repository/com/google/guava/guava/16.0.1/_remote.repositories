@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri May 12 10:05:59 CST 2017
+guava-16.0.1.pom>internal-repository=
+guava-16.0.1.jar>internal-repository=
+guava-16.0.1.pom>nexus-aliyun=
+guava-16.0.1.jar>nexus-aliyun=
+guava-16.0.1-sources.jar>internal-repository=
+guava-16.0.1.jar>central=
+guava-16.0.1.pom>central=

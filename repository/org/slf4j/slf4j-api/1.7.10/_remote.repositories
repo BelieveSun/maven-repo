@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri May 12 10:05:59 CST 2017
+slf4j-api-1.7.10.jar>central=
+slf4j-api-1.7.10.pom>central=
+slf4j-api-1.7.10.jar>internal-repository=
+slf4j-api-1.7.10.pom>internal-repository=

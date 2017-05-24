@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 17 14:43:40 CST 2017
+jetty-util-6.1.26-sources.jar>internal-repository=
+jetty-util-6.1.26.jar>internal-repository=
+jetty-util-6.1.26.pom>internal-repository=
+jetty-util-6.1.26.pom>nexus-aliyun=
+jetty-util-6.1.26.jar>nexus-aliyun=

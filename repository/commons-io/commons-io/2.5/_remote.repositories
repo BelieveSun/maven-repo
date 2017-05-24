@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 27 14:23:25 CST 2017
+commons-io-2.5.pom>internal-repository=
+commons-io-2.5.jar>internal-repository=
+commons-io-2.5.jar>archive=
+commons-io-2.5.pom>archive=

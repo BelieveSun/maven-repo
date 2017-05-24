@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri May 12 10:05:59 CST 2017
+javax.mail-1.5.2.jar>internal-repository=
+javax.mail-1.5.2.pom>internal-repository=
+javax.mail-1.5.2.jar>central=
+javax.mail-1.5.2.pom>central=

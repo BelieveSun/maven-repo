@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 27 10:27:36 CST 2016
+mybatis-3.4.1.jar>internal-repository=
+mybatis-3.4.1-sources.jar>internal-repository=
+mybatis-3.4.1.pom>internal-repository=

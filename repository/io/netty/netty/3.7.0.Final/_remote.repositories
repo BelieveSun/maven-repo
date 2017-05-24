@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Mar 15 18:31:57 CST 2017
+netty-3.7.0.Final.jar>internal-repository=
+netty-3.7.0.Final.pom>internal-repository=
+netty-3.7.0.Final.pom>nexus-aliyun=
+netty-3.7.0.Final.jar>nexus-aliyun=

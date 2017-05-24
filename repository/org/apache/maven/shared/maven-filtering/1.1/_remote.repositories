@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 27 18:38:06 CST 2017
+maven-filtering-1.1.jar>internal-repository=
+maven-filtering-1.1.pom>internal-repository=
+maven-filtering-1.1.jar>central=
+maven-filtering-1.1.pom>nexus-aliyun=
+maven-filtering-1.1.pom>central=
+maven-filtering-1.1.jar>nexus-aliyun=

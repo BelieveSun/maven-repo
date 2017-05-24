@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Mar 13 14:06:12 CST 2017
+servlet-api-2.4.pom>internal-repository=
+servlet-api-2.4.pom>nexus-aliyun=
+servlet-api-2.4.jar>nexus-aliyun=
+servlet-api-2.4.jar>internal-repository=

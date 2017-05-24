@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Mar 13 16:22:46 CST 2017
+http\://nexus.allinmoney.com/content/groups/public/.error=Could not transfer artifact com.google.guava\:guava\:jar\:javadoc\:18.0 from/to internal-repository (http\://nexus.allinmoney.com/content/groups/public/)\: Failed to transfer file\: http\://nexus.allinmoney.com/content/groups/public/com/google/guava/guava/18.0/guava-18.0-javadoc.jar. Return code is\: 504 , ReasonPhrase\:Gateway Time-out.
+@default-internal-repository-http\://nexus.allinmoney.com/content/groups/public/.lastUpdated=1489393366120

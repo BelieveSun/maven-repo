@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed May 10 14:31:03 CST 2017
+activation-1.1.pom>nexus-aliyun=
+activation-1.1.jar>nexus-aliyun=
+activation-1.1.jar>central=
+activation-1.1.pom>central=
+activation-1.1-sources.jar>internal-repository=
+activation-1.1.jar>internal-repository=
+activation-1.1.pom>internal-repository=

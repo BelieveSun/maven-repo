@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Mar 15 18:31:57 CST 2017
+jackson-core-asl-1.8.3.pom>nexus-aliyun=
+jackson-core-asl-1.8.3.jar>nexus-aliyun=
+jackson-core-asl-1.8.3.jar>internal-repository=
+jackson-core-asl-1.8.3.pom>internal-repository=

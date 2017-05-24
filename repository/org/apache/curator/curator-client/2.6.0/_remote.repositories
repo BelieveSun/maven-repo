@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 17 14:42:14 CST 2017
+curator-client-2.6.0-sources.jar>internal-repository=
+curator-client-2.6.0.jar>internal-repository=
+curator-client-2.6.0.pom>internal-repository=
+curator-client-2.6.0.pom>nexus-aliyun=
+curator-client-2.6.0.jar>nexus-aliyun=

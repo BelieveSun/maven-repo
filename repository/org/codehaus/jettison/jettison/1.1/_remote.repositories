@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 17 14:43:54 CST 2017
+jettison-1.1.jar>nexus-aliyun=
+jettison-1.1-sources.jar>internal-repository=
+jettison-1.1.pom>internal-repository=
+jettison-1.1.jar>internal-repository=
+jettison-1.1.pom>nexus-aliyun=

@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Mar 13 16:23:27 CST 2017
+netty-3.10.6.Final.jar>internal-repository=
+netty-3.10.6.Final.pom>internal-repository=
+netty-3.10.6.Final-javadoc.jar>internal-repository=
+netty-3.10.6.Final-sources.jar>internal-repository=

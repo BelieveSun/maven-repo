@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 17 14:42:46 CST 2017
+jersey-json-1.9.jar>internal-repository=
+jersey-json-1.9.pom>internal-repository=
+jersey-json-1.9.pom>nexus-aliyun=
+jersey-json-1.9-sources.jar>internal-repository=
+jersey-json-1.9.jar>nexus-aliyun=

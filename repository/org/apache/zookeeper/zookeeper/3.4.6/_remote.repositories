@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 17 14:43:08 CST 2017
+zookeeper-3.4.6.pom>nexus-aliyun=
+zookeeper-3.4.6.jar>nexus-aliyun=
+zookeeper-3.4.6-sources.jar>internal-repository=
+zookeeper-3.4.6.jar>internal-repository=
+zookeeper-3.4.6.pom>internal-repository=

@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed May 10 14:31:03 CST 2017
+ehcache-core-2.5.0.jar>central=
+ehcache-core-2.5.0-sources.jar>internal-repository=
+ehcache-core-2.5.0.pom>central=
+ehcache-core-2.5.0.jar>internal-repository=
+ehcache-core-2.5.0-javadoc.jar>internal-repository=
+ehcache-core-2.5.0.pom>internal-repository=

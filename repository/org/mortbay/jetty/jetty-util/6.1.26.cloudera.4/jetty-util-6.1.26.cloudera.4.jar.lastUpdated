@@ -1,0 +1,17 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Mar 13 14:06:30 CST 2017
+http\://www.datanucleus.org/downloads/maven2/.error=Could not transfer artifact org.mortbay.jetty\:jetty-util\:jar\:6.1.26.cloudera.4 from/to datanucleus (http\://www.datanucleus.org/downloads/maven2)\: \u6769\u6B10\u69F8\u9366\u3124\u5BCC\u93C8\u54C4\u6095\u7459\uFF46\u703D\u93C3\u5815\uFFFD\u6C2C\u7236\u9351\u8679\u5E47\u9428\u52EC\u6B8F\u93C3\u5815\u654A\u7487\uE224\u7D1D\u7039\u51A9\u5270\u935B\u5D07\u6F43\u93C8\uE100\u6E74\u93C8\u5D85\u59DF\u9363\u3126\u75C5\u93C8\u5909\u7CA0\u93C9\u51A8\u2589\u93C8\u5D85\u59DF\u9363\u3124\u7B02\u93C0\u8DFA\u57CC\u935D\u5D85\u7C32\u9286\uFFFD (www.datanucleus.org)
+https\://repository.cloudera.com/content/repositories/third-party/.lastUpdated=1489385190616
+https\://mvnrepository.com/artifact/.error=
+@default-datanucleus-http\://www.datanucleus.org/downloads/maven2/.lastUpdated=1489385187634
+http\://download.java.net/maven/2/.lastUpdated=1489385188648
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1489385172750
+@default-cdh.snapshots.repo-https\://repository.cloudera.com/content/repositories/snapshots/.lastUpdated=1489385176576
+https\://repository.cloudera.com/content/repositories/releases/.error=
+http\://download.java.net/maven/2/.error=
+https\://repository.cloudera.com/content/repositories/releases/.lastUpdated=1489375421829
+https\://repository.cloudera.com/content/groups/cdh-releases-rcs/.error=Could not transfer artifact org.mortbay.jetty\:jetty-util\:jar\:6.1.26.cloudera.4 from/to cdh.releases.repo (https\://repository.cloudera.com/content/groups/cdh-releases-rcs)\: D\:\\repository\\org\\mortbay\\jetty\\jetty-util\\6.1.26.cloudera.4\\jetty-util-6.1.26.cloudera.4.jar.part.lock (\u62D2\u7EDD\u8BBF\u95EE\u3002)
+https\://mvnrepository.com/artifact/.lastUpdated=1489375525516
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+https\://repository.cloudera.com/content/repositories/snapshots/.error=Could not transfer artifact org.mortbay.jetty\:jetty-util\:jar\:6.1.26.cloudera.4 from/to cdh.snapshots.repo (https\://repository.cloudera.com/content/repositories/snapshots)\: Failed to transfer file\: https\://repository.cloudera.com/content/repositories/snapshots/org/mortbay/jetty/jetty-util/6.1.26.cloudera.4/jetty-util-6.1.26.cloudera.4.jar. Return code is\: 409 , ReasonPhrase\:Conflict.
+@default-cdh.releases.repo-https\://repository.cloudera.com/content/groups/cdh-releases-rcs/.lastUpdated=1489385176259

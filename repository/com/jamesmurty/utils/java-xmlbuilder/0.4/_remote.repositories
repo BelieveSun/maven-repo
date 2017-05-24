@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 17 14:42:09 CST 2017
+java-xmlbuilder-0.4.jar>internal-repository=
+java-xmlbuilder-0.4-sources.jar>internal-repository=
+java-xmlbuilder-0.4.pom>internal-repository=
+java-xmlbuilder-0.4.pom>nexus-aliyun=
+java-xmlbuilder-0.4.jar>nexus-aliyun=

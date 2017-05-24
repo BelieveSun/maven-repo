@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Mar 13 16:17:23 CST 2017
+http\://nexus.allinmoney.com/content/groups/public/.error=Could not transfer artifact org.elasticsearch\:elasticsearch\:jar\:javadoc\:2.4.2 from/to internal-repository (http\://nexus.allinmoney.com/content/groups/public/)\: Failed to transfer file\: http\://nexus.allinmoney.com/content/groups/public/org/elasticsearch/elasticsearch/2.4.2/elasticsearch-2.4.2-javadoc.jar. Return code is\: 504 , ReasonPhrase\:Gateway Time-out.
+@default-internal-repository-http\://nexus.allinmoney.com/content/groups/public/.lastUpdated=1489393043769

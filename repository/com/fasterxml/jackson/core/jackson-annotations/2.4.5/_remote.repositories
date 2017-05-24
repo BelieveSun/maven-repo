@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri May 12 10:05:59 CST 2017
+jackson-annotations-2.4.5.jar>central=
+jackson-annotations-2.4.5.jar>internal-repository=
+jackson-annotations-2.4.5.pom>central=
+jackson-annotations-2.4.5.pom>internal-repository=

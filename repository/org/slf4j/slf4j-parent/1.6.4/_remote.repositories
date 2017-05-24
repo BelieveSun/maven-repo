@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed May 10 14:30:27 CST 2017
+slf4j-parent-1.6.4.pom>central=
+slf4j-parent-1.6.4.pom>internal-repository=
+slf4j-parent-1.6.4.pom>nexus-aliyun=

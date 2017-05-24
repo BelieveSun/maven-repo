@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Mar 15 18:31:57 CST 2017
+slf4j-log4j12-1.6.1.jar>internal-repository=
+slf4j-log4j12-1.6.1.pom>nexus-aliyun=
+slf4j-log4j12-1.6.1.jar>nexus-aliyun=
+slf4j-log4j12-1.6.1.pom>internal-repository=

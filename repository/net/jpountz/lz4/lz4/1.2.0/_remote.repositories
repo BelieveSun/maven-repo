@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Nov 07 17:43:04 CST 2016
+lz4-1.2.0.jar>internal-repository=
+lz4-1.2.0-javadoc.jar>internal-repository=
+lz4-1.2.0.pom>internal-repository=

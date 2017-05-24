@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Nov 24 10:53:12 CST 2016
+build-helper-maven-plugin-1.12.jar>internal-repository=
+build-helper-maven-plugin-1.12.pom>internal-repository=

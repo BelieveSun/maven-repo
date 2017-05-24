@@ -1,0 +1,206 @@
+<project
+	xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>com.commsen.stopwatch.api</groupId>
+	<artifactId>stopwatch</artifactId>
+	<packaging>jar</packaging>
+	<version>0.3</version>
+	<name>Stopwatch</name>
+	<url>http://jstopwatch.sourceforge.net</url>
+	<inceptionYear>2006</inceptionYear>
+
+	<description>
+		Stopwatch is a free, simple, highly extensible, Java API that allows developers to easily monitor 
+		whole application or any part of it. By default Stopwatch generate reports about hits, execution 
+		times (total, average, minimum, maximum) as well as load but it can be easily extended to measure 
+		anything else by providing custom engine. Out of the box Stopwatch uses an in-memory HSQL database. 
+		It is able to persist collected data using a "storage". There is "storage" provided to persist into 
+		HSQL database and custom "storage" can be easily integrated. 
+	</description>
+
+<!-- 
+	<parent>
+		<groupId>com.commsen</groupId>
+		<artifactId>stopwatch</artifactId>
+		<version>SNAPSHOT</version>
+	</parent>
+ -->
+ 
+	<licenses>
+		<license>
+			<name>Common Public License Version 1.0</name>
+			<url>http://www.opensource.org/licenses/cpl1.0.txt</url>
+		</license>
+	</licenses>
+
+	<organization>
+		<name>Commsen International</name>
+	</organization>
+
+	<scm>
+	<!-- 
+		moved to SVN
+		<url>http://cvs.sourceforge.net/viewcvs.py/jstopwatch/</url>
+		<connection>scm:cvs:pserver:anonymous@cvs.sourceforge.net:/cvsroot/jstopwatch:stopwatch</connection>
+	 -->		
+		
+		<url>http://svn.sourceforge.net/viewcvs.cgi/jstopwatch/stopwatch/trunk</url>
+		<connection>scm:svn:http://svn.sourceforge.net/svnroot/jstopwatch/stopwatch/trunk</connection>
+		<developerConnection>scm:svn:https://svn.sourceforge.net/svnroot/jstopwatch/stopwatch/trunk</developerConnection>
+		
+	</scm>
+
+	<developers>
+		<developer>
+			<id>mdyankov</id>
+			<name>Milen Dyankov</name>
+			<email>milendyankov@gmail.com</email>
+			<timezone>+2</timezone>
+			<url>http://milen.netbiuro.com</url>
+		</developer>
+	</developers>
+
+	<issueManagement>
+		<system>SourceForge Tracker</system>
+		<url>http://sourceforge.net/tracker/?group_id=160328</url>
+	</issueManagement>
+
+
+	<build>
+		<plugins>
+			<plugin>
+				<artifactId>maven-assembly-plugin</artifactId>
+				<configuration>
+					<descriptors>
+						<descriptor>src/main/assembly/src.xml</descriptor>
+						<descriptor>src/main/assembly/jar-with-dependencies.xml</descriptor>
+						<descriptor>src/main/assembly/bin.xml</descriptor>
+					</descriptors>
+				</configuration>
+			</plugin>
+<!-- 
+			<plugin>
+				<artifactId>maven-release-plugin</artifactId>
+				<configuration>
+					<tagBase>https://svn.sourceforge.net/svnroot/jstopwatch/stopwatch/tags</tagBase>
+					<username>azzazzel</username>
+				</configuration>
+			</plugin>
+ -->
+ 		
+<!-- 
+ 			<plugin>
+ 				<artifactId>jboss-sar-maven-plugin</artifactId>
+ 			</plugin>	
+ -->  			
+		</plugins>
+	</build>
+
+
+	<dependencies>
+		<dependency>
+			<groupId>hsqldb</groupId>
+			<artifactId>hsqldb</artifactId>
+			<version>1.8.0.1</version>
+		</dependency>
+
+		<!-- provided dependencies-->
+		<dependency>
+			<groupId>log4j</groupId>
+			<artifactId>log4j</artifactId>
+			<version>1.2.9</version>
+			<scope>provided</scope>
+			<optional />
+		</dependency>
+
+		<dependency>
+			<groupId>mx4j</groupId>
+			<artifactId>mx4j</artifactId>
+			<version>3.0.1</version>
+			<scope>provided</scope>
+			<optional>true</optional>
+		</dependency>
+
+		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>servlet-api</artifactId>
+			<version>2.4</version>
+			<scope>provided</scope>
+			<optional>true</optional>
+		</dependency>
+
+		<!-- unit tests dependencies-->
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>3.8.1</version>
+			<scope>test</scope>
+		</dependency>
+	</dependencies>
+
+
+	<reporting>
+		<plugins>
+
+			<plugin>
+				<artifactId>maven-javadoc-plugin</artifactId>
+			</plugin>
+
+			<plugin>
+				<groupId>org.codehaus.mojo</groupId>
+				<artifactId>surefire-report-maven-plugin</artifactId>
+			</plugin>
+
+			<plugin>
+				<groupId>org.codehaus.mojo</groupId>
+				<artifactId>taglist-maven-plugin</artifactId>
+			</plugin>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-pmd-plugin</artifactId>
+                <configuration>
+                <!-- 
+                    <rulesets>
+                        <ruleset>/rulesets/basic.xml</ruleset>
+                        <ruleset>/rulesets/controversial.xml</ruleset>
+                        <ruleset>d:\rulesets\strings.xml</ruleset>
+                        <ruleset>http://localhost/design.xml</ruleset>
+                    </rulesets>
+                  -->   
+                    <format>xml</format>
+                    <linkXref>true</linkXref>
+                    <sourceEncoding>utf-8</sourceEncoding>
+                    <minimumTokens>100</minimumTokens>
+                </configuration>
+            </plugin>
+            
+			<plugin>
+				<groupId>org.codehaus.mojo</groupId>
+				<artifactId>jxr-maven-plugin</artifactId>
+			</plugin>
+            
+<!-- 
+			<plugin>
+				<groupId>org.codehaus.mojo</groupId>
+				<artifactId>changelog-maven-plugin</artifactId>
+			</plugin>
+
+			<plugin>
+				<groupId>org.codehaus.mojo</groupId>
+				<artifactId>jdepend-maven-plugin</artifactId>
+			</plugin>
+				
+			<plugin>
+				<artifactId>maven-clover-plugin</artifactId>
+			</plugin>
+-->
+
+		</plugins>
+	</reporting>
+
+</project>

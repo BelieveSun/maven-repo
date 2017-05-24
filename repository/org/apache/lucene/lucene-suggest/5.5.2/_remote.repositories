@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Mar 13 16:23:02 CST 2017
+lucene-suggest-5.5.2-sources.jar>internal-repository=
+lucene-suggest-5.5.2.jar>internal-repository=
+lucene-suggest-5.5.2.pom>internal-repository=
+lucene-suggest-5.5.2-javadoc.jar>internal-repository=

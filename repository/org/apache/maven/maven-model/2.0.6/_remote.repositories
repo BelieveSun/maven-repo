@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 27 18:36:13 CST 2017
+maven-model-2.0.6.jar>internal-repository=
+maven-model-2.0.6.pom>internal-repository=
+maven-model-2.0.6.pom>nexus-aliyun=
+maven-model-2.0.6.jar>central=
+maven-model-2.0.6.jar>nexus-aliyun=
+maven-model-2.0.6.pom>central=

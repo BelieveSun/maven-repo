@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Mar 13 16:10:28 CST 2017
+elasticsearch-2.4.2.jar>internal-repository=
+elasticsearch-2.4.2-sources.jar>internal-repository=
+elasticsearch-2.4.2.pom>internal-repository=

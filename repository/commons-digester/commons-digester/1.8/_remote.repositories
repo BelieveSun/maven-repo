@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 17 14:43:10 CST 2017
+commons-digester-1.8.pom>internal-repository=
+commons-digester-1.8.pom>nexus-aliyun=
+commons-digester-1.8.jar>nexus-aliyun=
+commons-digester-1.8-sources.jar>internal-repository=
+commons-digester-1.8.jar>internal-repository=

@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Nov 14 18:38:34 CST 2016
+http\://nexus.allinmoney.com/content/groups/public/.error=Could not transfer artifact org.mortbay.jetty.alpn\:alpn-boot\:pom\:undefined from/to internal-repository (http\://nexus.allinmoney.com/content/groups/public/)\: Failed to transfer file\: http\://nexus.allinmoney.com/content/groups/public/org/mortbay/jetty/alpn/alpn-boot/undefined/alpn-boot-undefined.pom. Return code is\: 504 , ReasonPhrase\:Gateway Time-out.
+default-http\://nexus.allinmoney.com/content/groups/public/.lastUpdated=1479119914601

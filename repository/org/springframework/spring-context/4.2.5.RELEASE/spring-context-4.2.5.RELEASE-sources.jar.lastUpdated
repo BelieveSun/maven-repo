@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Dec 16 15:03:49 CST 2016
+http\://nexus.allinmoney.com/content/groups/public/.error=Could not transfer artifact org.springframework\:spring-context\:jar\:sources\:4.2.5.RELEASE from/to internal-repository (http\://nexus.allinmoney.com/content/groups/public/)\: Failed to transfer file\: http\://nexus.allinmoney.com/content/groups/public/org/springframework/spring-context/4.2.5.RELEASE/spring-context-4.2.5.RELEASE-sources.jar. Return code is\: 504 , ReasonPhrase\:Gateway Time-out.
+@default-internal-repository-http\://nexus.allinmoney.com/content/groups/public/.lastUpdated=1481871829938

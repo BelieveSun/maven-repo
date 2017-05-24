@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri May 19 13:47:30 CST 2017
+maven-shared-components-12.pom>internal-repository=
+maven-shared-components-12.pom>central=
+maven-shared-components-12.pom>nexus-aliyun=

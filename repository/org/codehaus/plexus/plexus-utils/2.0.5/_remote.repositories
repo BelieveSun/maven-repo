@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 27 18:38:06 CST 2017
+plexus-utils-2.0.5.jar>internal-repository=
+plexus-utils-2.0.5.pom>nexus-aliyun=
+plexus-utils-2.0.5.pom>internal-repository=
+plexus-utils-2.0.5.jar>nexus-aliyun=
+plexus-utils-2.0.5.jar>central=
+plexus-utils-2.0.5.pom>central=

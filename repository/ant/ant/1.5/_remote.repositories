@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Mar 16 16:29:06 CST 2017
+ant-1.5.jar>internal-repository=
+ant-1.5.pom>internal-repository=
+ant-1.5.pom>nexus-aliyun=
+ant-1.5.jar>nexus-aliyun=

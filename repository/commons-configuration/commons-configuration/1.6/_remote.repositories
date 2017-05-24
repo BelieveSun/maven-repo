@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 17 14:43:19 CST 2017
+commons-configuration-1.6.pom>internal-repository=
+commons-configuration-1.6.jar>nexus-aliyun=
+commons-configuration-1.6-sources.jar>internal-repository=
+commons-configuration-1.6.pom>nexus-aliyun=
+commons-configuration-1.6.jar>internal-repository=

@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Mar 13 14:06:09 CST 2017
+zookeeper-3.4.5-cdh5.10.0.jar>Cloudera\ Repository=
+zookeeper-3.4.5-cdh5.10.0.pom>Cloudera\ Repository=
+zookeeper-3.4.5-cdh5.10.0.jar>cloudera=
+zookeeper-3.4.5-cdh5.10.0.pom>cloudera=

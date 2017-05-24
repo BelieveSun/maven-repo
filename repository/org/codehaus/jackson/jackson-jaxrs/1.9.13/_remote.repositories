@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Mar 16 16:29:02 CST 2017
+jackson-jaxrs-1.9.13.pom>internal-repository=
+jackson-jaxrs-1.9.13.pom>nexus-aliyun=
+jackson-jaxrs-1.9.13.jar>internal-repository=
+jackson-jaxrs-1.9.13.jar>nexus-aliyun=

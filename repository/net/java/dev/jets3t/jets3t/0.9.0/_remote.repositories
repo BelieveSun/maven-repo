@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 17 14:42:50 CST 2017
+jets3t-0.9.0.jar>nexus-aliyun=
+jets3t-0.9.0.jar>internal-repository=
+jets3t-0.9.0.pom>internal-repository=
+jets3t-0.9.0-sources.jar>internal-repository=
+jets3t-0.9.0.pom>nexus-aliyun=

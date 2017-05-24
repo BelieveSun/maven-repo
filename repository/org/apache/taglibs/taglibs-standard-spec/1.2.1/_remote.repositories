@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri May 12 10:20:46 CST 2017
+taglibs-standard-spec-1.2.1.jar>central=
+taglibs-standard-spec-1.2.1.pom>central=
+taglibs-standard-spec-1.2.1.jar>internal-repository=
+taglibs-standard-spec-1.2.1.pom>internal-repository=

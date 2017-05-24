@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Mar 15 18:31:57 CST 2017
+httpclient-4.2.5.pom>nexus-aliyun=
+httpclient-4.2.5.jar>internal-repository=
+httpclient-4.2.5.jar>nexus-aliyun=
+httpclient-4.2.5.pom>internal-repository=

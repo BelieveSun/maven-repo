@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Mar 13 16:19:22 CST 2017
+spatial4j-0.5-sources.jar>internal-repository=
+spatial4j-0.5.jar>internal-repository=
+spatial4j-0.5.pom>internal-repository=
+spatial4j-0.5-javadoc.jar>internal-repository=

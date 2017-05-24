@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 27 18:37:45 CST 2017
+maven-compiler-plugin-3.3.pom>nexus-aliyun=
+maven-compiler-plugin-3.3.jar>central=
+maven-compiler-plugin-3.3.jar>nexus-aliyun=
+maven-compiler-plugin-3.3.jar>internal-repository=
+maven-compiler-plugin-3.3.pom>internal-repository=
+maven-compiler-plugin-3.3.pom>central=

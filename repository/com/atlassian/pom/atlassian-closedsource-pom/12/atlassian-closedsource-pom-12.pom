@@ -1,0 +1,68 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.atlassian.pom</groupId>
+    <artifactId>atlassian-closedsource-pom</artifactId>
+    <packaging>pom</packaging>
+    <version>12</version>
+    <name>Atlassian Closed Source POM</name>
+    <parent>
+        <artifactId>atlassian-base-pom</artifactId>
+        <groupId>com.atlassian.pom</groupId>
+        <version>20</version>
+    </parent>
+    <scm>
+        <connection>scm:svn:https://svn.atlassian.com/svn/public/atlassian/pom/atlassian-closedsource-pom/tags/atlassian-closedsource-pom-12</connection>
+        <developerConnection>scm:svn:https://svn.atlassian.com/svn/public/atlassian/pom/atlassian-closedsource-pom/tags/atlassian-closedsource-pom-12</developerConnection>
+        <url>https://svn.atlassian.com/svn/public/atlassian/pom/atlassian-closedsource-pom/tags/atlassian-closedsource-pom-12</url>
+    </scm>
+    
+    <build>
+        <plugins>
+            <plugin>
+                <artifactId>maven-deploy-plugin</artifactId>
+                <inherited>false</inherited>
+                <configuration>
+                    <altDeploymentRepository>atlassian-m2-snapshot-repository::default::dav:https://maven.atlassian.com/public-snapshot</altDeploymentRepository>
+                </configuration>
+            </plugin>
+        </plugins>
+        <pluginManagement>
+            <plugins>
+                <plugin>
+                    <artifactId>maven-source-plugin</artifactId>
+                    <configuration>
+                        <attach>false</attach>
+                    </configuration>
+                </plugin>
+            </plugins>
+        </pluginManagement>
+    </build>
+    <profiles>
+        <profile>
+            <id>release</id>
+            <build>
+                <plugins>
+                    <plugin>
+                        <artifactId>maven-deploy-plugin</artifactId>
+                        <inherited>false</inherited>
+                        <configuration>
+                            <altDeploymentRepository>atlassian-m2-repository::default::dav:https://maven.atlassian.com/public</altDeploymentRepository>
+                        </configuration>
+                    </plugin>
+                </plugins>
+            </build>
+        </profile>
+    </profiles>
+    <distributionManagement>
+        <repository>
+            <id>atlassian-m2-repository</id>
+            <name>Atlassian Public Repository</name>
+            <url>dav:https://maven.atlassian.com/public</url>
+        </repository>
+        <snapshotRepository>
+            <id>atlassian-private-snapshot</id>
+            <name>Atlassian Private Snapshot Repository</name>
+            <url>dav:https://maven.atlassian.com/private-snapshot</url>
+        </snapshotRepository>
+    </distributionManagement>
+</project>

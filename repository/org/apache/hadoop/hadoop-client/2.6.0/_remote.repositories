@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Mar 16 16:29:02 CST 2017
+hadoop-client-2.6.0.jar>internal-repository=
+hadoop-client-2.6.0.pom>nexus-aliyun=
+hadoop-client-2.6.0.jar>nexus-aliyun=
+hadoop-client-2.6.0.pom>internal-repository=

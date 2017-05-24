@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 17 14:32:13 CST 2017
+hadoop-common-2.6.0.pom>nexus-aliyun=
+hadoop-common-2.6.0-sources.jar>internal-repository=
+hadoop-common-2.6.0.jar>nexus-aliyun=
+hadoop-common-2.6.0.jar>internal-repository=
+hadoop-common-2.6.0.pom>internal-repository=

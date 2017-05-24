@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Mar 13 11:48:15 CST 2017
+oro-2.0.8.pom>nexus-aliyun=
+oro-2.0.8.pom>internal-repository=
+oro-2.0.8.jar>internal-repository=
+oro-2.0.8.jar>nexus-aliyun=

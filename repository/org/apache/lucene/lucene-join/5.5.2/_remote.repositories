@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Mar 13 16:17:30 CST 2017
+lucene-join-5.5.2.jar>internal-repository=
+lucene-join-5.5.2.pom>internal-repository=
+lucene-join-5.5.2-javadoc.jar>internal-repository=
+lucene-join-5.5.2-sources.jar>internal-repository=

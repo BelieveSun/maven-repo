@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Mar 13 14:05:20 CST 2017
+https\://repository.cloudera.com/content/repositories/releases/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+https\://repository.cloudera.com/content/groups/cdh-releases-rcs/.lastUpdated=1489385120246
+https\://repository.cloudera.com/content/repositories/releases/.lastUpdated=1489385108002
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1489385118157

@@ -1,0 +1,296 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <parent>
+    <groupId>com.atlassian.bamboo</groupId>
+    <artifactId>atlassian-bamboo-components</artifactId>
+    <version>2.3.1</version>
+  </parent>
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>com.atlassian.bamboo</groupId>
+  <artifactId>atlassian-bamboo-api</artifactId>
+  <version>2.3.1</version>
+
+  <packaging>jar</packaging>
+
+  <name>Atlassian Bamboo API</name>
+
+  <dependencies>
+
+    <dependency>
+      <groupId>com.atlassian.extras</groupId>
+      <artifactId>atlassian-extras</artifactId>
+    </dependency>    
+
+    <dependency>
+      <groupId>com.atlassian.core</groupId>
+      <artifactId>atlassian-core</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>com.atlassian.config</groupId>
+      <artifactId>atlassian-config</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>com.atlassian.plugins</groupId>
+      <artifactId>atlassian-plugins-core</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>com.atlassian.plugins</groupId>
+      <artifactId>atlassian-plugins-servlet</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>com.atlassian.plugins</groupId>
+      <artifactId>atlassian-plugins-webfragment</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>com.atlassian.plugins</groupId>
+      <artifactId>atlassian-plugins-webresource</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>com.atlassian.plugins</groupId>
+      <artifactId>atlassian-plugins-osgi</artifactId>
+    </dependency>
+    
+    <dependency>
+      <groupId>com.atlassian.plugins</groupId>
+      <artifactId>atlassian-plugins-spring</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>com.atlassian.bandana</groupId>
+      <artifactId>atlassian-bandana</artifactId>
+    </dependency>
+
+    <dependency>
+        <groupId>org.codehaus.plexus</groupId>
+        <artifactId>plexus-utils</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-log4j12</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-api</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>jcl-over-slf4j</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>com.atlassian.user</groupId>
+      <artifactId>atlassian-user</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>com.atlassian.bucket</groupId>
+      <artifactId>atlassian-bucket</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>com.atlassian.event</groupId>
+      <artifactId>atlassian-event</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>com.atlassian.bamboo.jira</groupId>
+      <artifactId>bamboo-jira-soap-client</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>com.atlassian.sal</groupId>
+      <artifactId>sal-spi</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>com.atlassian.sal</groupId>
+      <artifactId>sal-spring</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>org.apache.ant</groupId>
+      <artifactId>ant</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>commons-lang</groupId>
+      <artifactId>commons-lang</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>backport-util-concurrent</groupId>
+      <artifactId>backport-util-concurrent</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>dom4j</groupId>
+      <artifactId>dom4j</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>log4j</groupId>
+      <artifactId>log4j</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>javax.servlet</groupId>
+      <artifactId>servlet-api</artifactId>
+      <scope>provided</scope>
+    </dependency>
+
+    <dependency>
+      <groupId>opensymphony</groupId>
+      <artifactId>oscore</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>opensymphony</groupId>
+      <artifactId>quartz</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>opensymphony</groupId>
+      <artifactId>propertyset</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>com.google.collections</groupId>
+      <artifactId>google-collections</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>commons-collections</groupId>
+      <artifactId>commons-collections</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>commons-configuration</groupId>
+      <artifactId>commons-configuration</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>commons-beanutils</groupId>
+      <artifactId>commons-beanutils</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>polsUtils</groupId>
+      <artifactId>polsUtils</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>jivesoftware</groupId>
+      <artifactId>smackx</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>jivesoftware</groupId>
+      <artifactId>smack</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>net.sf.ldaptemplate</groupId>
+      <artifactId>ldaptemplate</artifactId>
+    </dependency>
+
+
+    <dependency>
+      <groupId>commons-lang</groupId>
+      <artifactId>commons-lang</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>jmock</groupId>
+      <artifactId>jmock</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>joda-time</groupId>
+      <artifactId>joda-time</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>com.atlassian.seraph</groupId>
+      <artifactId>atlassian-seraph</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>org.apache.lucene</groupId>
+      <artifactId>lucene-core</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>com.atlassian.mail</groupId>
+      <artifactId>atlassian-mail</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>org.acegisecurity</groupId>
+      <artifactId>acegi-security</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>com.intellij</groupId>
+      <artifactId>annotations</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>net.jcip</groupId>
+      <artifactId>jcip-annotations</artifactId>
+      <version>1.0</version>
+    </dependency>
+    
+    <dependency>
+      <groupId>com.atlassian.aws</groupId>
+      <artifactId>atlassian-aws</artifactId>
+    </dependency>
+
+  </dependencies>
+
+  <build>
+    <plugins>
+      <plugin>
+        <artifactId>maven-antrun-plugin</artifactId>
+        <executions>
+          <execution>
+            <phase>generate-sources</phase>
+            <configuration>
+              <tasks>
+                <tstamp>
+                  <format property="TODAY_LONG" pattern="HH:mm:ss:ddMMyyyy" locale="en" />
+                </tstamp>
+                <filterset id="filters">
+                  <filter token="DATE_FORMAT" value="HH:mm:ss:ddMMyyyy" />
+                  <filter token="BUILD_DATE" value="${TODAY_LONG}" />
+                  <filter token="BUILD_NUMBER" value="${buildNumber}" />
+                  <filter token="VERSION" value="${project.version}" />
+                  <filter token="DEV_MODE" value="${devMode}" />
+                  <filter token="EDITION" value="" />
+                </filterset>
+                <copy preservelastmodified="true" file="./src/main/resources/com/atlassian/bamboo/util/BuildUtils.template" tofile="./src/main/java/com/atlassian/bamboo/util/BuildUtils.java" overwrite="true">
+                  <filterset refid="filters" />
+                </copy>
+              </tasks>
+            </configuration>
+            <goals>
+              <goal>run</goal>
+            </goals>
+          </execution>
+        </executions>
+
+      </plugin>
+
+    </plugins>
+  </build>
+
+</project>

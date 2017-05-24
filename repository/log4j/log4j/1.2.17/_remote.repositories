@@ -1,0 +1,11 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed May 10 14:31:03 CST 2017
+log4j-1.2.17.pom>nexus-aliyun=
+log4j-1.2.17-javadoc.jar>internal-repository=
+log4j-1.2.17.jar>nexus-aliyun=
+log4j-1.2.17.jar>central=
+log4j-1.2.17.pom>central=
+log4j-1.2.17.jar>internal-repository=
+log4j-1.2.17.pom>internal-repository=
+log4j-1.2.17.jar>archive=
+log4j-1.2.17.pom>archive=

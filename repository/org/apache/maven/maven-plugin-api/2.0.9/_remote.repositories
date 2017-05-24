@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri May 12 10:20:11 CST 2017
+maven-plugin-api-2.0.9.pom>internal-repository=
+maven-plugin-api-2.0.9.jar>central=
+maven-plugin-api-2.0.9.pom>central=
+maven-plugin-api-2.0.9.pom>nexus-aliyun=
+maven-plugin-api-2.0.9.jar>nexus-aliyun=
+maven-plugin-api-2.0.9.jar>internal-repository=

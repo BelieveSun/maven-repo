@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Mar 13 16:23:02 CST 2017
+jsr166e-1.1.0-javadoc.jar>internal-repository=
+jsr166e-1.1.0-sources.jar>internal-repository=
+jsr166e-1.1.0.jar>internal-repository=
+jsr166e-1.1.0.pom>internal-repository=

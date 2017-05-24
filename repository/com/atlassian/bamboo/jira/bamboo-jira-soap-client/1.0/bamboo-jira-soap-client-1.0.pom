@@ -1,0 +1,30 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.atlassian.pom</groupId>
+        <artifactId>atlassian-public-pom</artifactId>
+        <version>15</version>
+    </parent>
+    <groupId>com.atlassian.bamboo.jira</groupId>
+    <artifactId>bamboo-jira-soap-client</artifactId>
+    <packaging>jar</packaging>
+    <version>1.0</version>
+    <name>Atlassian Bamboo Jira Soap Client</name>
+    <properties>
+        <jdkLevel>1.5</jdkLevel>
+    </properties>
+    <scm>
+        <connection>scm:svn:https://svn.atlassian.com/svn/private/atlassian/bamboo-jira-soap-client/tags/bamboo-jira-soap-client-1.0</connection>
+        <developerConnection>scm:svn:https://svn.atlassian.com/svn/private/atlassian/bamboo-jira-soap-client/tags/bamboo-jira-soap-client-1.0</developerConnection>
+        <url>https://svn.atlassian.com/svn/private/atlassian/bamboo-jira-soap-client/tags/bamboo-jira-soap-client-1.0</url>
+    </scm>
+
+    <!-- xfire dependency for SOAP to JIRA -->
+    <dependencies>
+        <dependency>
+            <groupId>axis</groupId>
+            <artifactId>axis</artifactId>
+	    <version>1.4</version>
+        </dependency>
+    </dependencies>
+</project>

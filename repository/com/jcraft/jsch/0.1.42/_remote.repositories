@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 17 14:43:35 CST 2017
+jsch-0.1.42.pom>nexus-aliyun=
+jsch-0.1.42.jar>internal-repository=
+jsch-0.1.42.pom>internal-repository=
+jsch-0.1.42.jar>nexus-aliyun=
+jsch-0.1.42-sources.jar>internal-repository=

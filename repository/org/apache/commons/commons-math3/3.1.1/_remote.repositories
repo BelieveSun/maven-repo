@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 17 14:44:39 CST 2017
+commons-math3-3.1.1.pom>internal-repository=
+commons-math3-3.1.1.jar>internal-repository=
+commons-math3-3.1.1.pom>nexus-aliyun=
+commons-math3-3.1.1-sources.jar>internal-repository=
+commons-math3-3.1.1.jar>nexus-aliyun=

@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 17 14:43:11 CST 2017
+jaxb-api-2.2.2.pom>nexus-aliyun=
+jaxb-api-2.2.2.jar>nexus-aliyun=
+jaxb-api-2.2.2-sources.jar>internal-repository=
+jaxb-api-2.2.2.jar>internal-repository=
+jaxb-api-2.2.2.pom>internal-repository=

@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 17 14:44:16 CST 2017
+htrace-core-3.0.4.jar>internal-repository=
+htrace-core-3.0.4.pom>internal-repository=
+htrace-core-3.0.4-sources.jar>internal-repository=
+htrace-core-3.0.4.pom>nexus-aliyun=
+htrace-core-3.0.4.jar>nexus-aliyun=

@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 17 14:42:54 CST 2017
+ant-contrib-1.0b2.jar>nexus-aliyun=
+ant-contrib-1.0b2.pom>nexus-aliyun=
+ant-contrib-1.0b2.pom>internal-repository=
+ant-contrib-1.0b2.jar>internal-repository=
+ant-contrib-1.0b2-sources.jar>internal-repository=

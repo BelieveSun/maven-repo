@@ -1,0 +1,41 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.atlassian.pom</groupId>
+        <artifactId>atlassian-closedsource-pom</artifactId>
+        <version>12</version>
+    </parent>
+
+    <groupId>com.atlassian.license</groupId>
+    <artifactId>atlassian-license</artifactId>
+    <version>1.21</version>
+    <packaging>pom</packaging>
+
+    <name>Atlassian License</name>
+    <description>Licensing libraries for Atlassian products</description>
+    <inceptionYear>2005</inceptionYear>
+
+    <scm>
+      <connection>scm:svn:https://svn.atlassian.com/svn/private/atlassian/atlassian-license/tags/atlassian-license-1.21</connection>
+      <developerConnection>scm:svn:https://svn.atlassian.com/svn/private/atlassian/atlassian-license/tags/atlassian-license-1.21</developerConnection>
+      <url>https://svn.atlassian.com/svn/private/atlassian/atlassian-license/tags/atlassian-license-1.21</url>
+    </scm>
+
+    <modules>
+        <module>license-encoder</module>
+        <module>license-decoder</module>
+    </modules>
+
+    <build>
+        <plugins>
+            <plugin>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <configuration>
+                    <!-- make sure we fork as we want to set the file encoding for tests to something else than UTF-8 -->
+                    <forkMode>once</forkMode>
+                    <argLine>-Dfile.encoding=Cp1251</argLine>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+</project>

@@ -1,0 +1,140 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    
+    <parent>
+        <groupId>com.atlassian.bamboo</groupId>
+        <artifactId>atlassian-bamboo</artifactId>
+        <version>2.3.1</version>
+    </parent>
+     
+    
+    <groupId>com.atlassian.bamboo</groupId>
+    <artifactId>atlassian-bamboo-components</artifactId>
+    
+    <packaging>pom</packaging>
+    <version>2.3.1</version>
+    <name>Atlassian Bamboo Components</name>    
+    <modules>
+        <module>bamboo-agent</module>
+        <module>bamboo-agent-bootstrap</module>
+        <module>bamboo-agent-bootstrap-withdeps</module>
+        <module>bamboo-agent-classpath</module>
+        <module>bamboo-agent-classserver</module>
+        <module>bamboo-agent-core</module>
+        <module>bamboo-agent-elastic</module>
+        <module>bamboo-agent-elastic-assembly</module>
+        <module>bamboo-agent-elastic-server</module>
+        <module>bamboo-agent-installer</module>
+        <module>bamboo-agent-local</module>
+        <module>bamboo-agent-remote</module>
+        <module>bamboo-agent-remote-uber-jar</module>
+        <module>bamboo-api</module>
+        <module>bamboo-charts</module>
+        <module>bamboo-core</module>
+        <!--<module>bamboo-crowd-web-app</module>-->
+        <module>bamboo-installer</module>
+        <module>bamboo-language</module>
+        <!--<module>bamboo-ldap-web-app</module>-->
+        <module>bamboo-license</module>
+        <module>bamboo-migration</module>
+        <module>bamboo-persistence</module>
+        <module>bamboo-remoteapi</module>
+        <module>bamboo-test-utils</module>
+        <module>bamboo-upgrader</module>
+        <module>bamboo-web</module>
+        <module>bamboo-web-app</module>
+        <module>bamboo-web-server</module>
+        
+        <!-- Need to add in-house plugins here -->
+        <module>bamboo-plugins/bamboo-buildnumberstamper-plugin</module>
+        <module>bamboo-plugins/bamboo-labeller-plugin-2</module>
+        <module>bamboo-plugins/bamboo-plugin-autofavourite</module>
+        <module>bamboo-plugins/bamboo-plugin-clover</module>
+        <!--<module>bamboo-plugins/bamboo-plugin-maven2</module>-->
+        <module>bamboo-plugins/bamboo-plugin-phpbuilder</module>
+        <module>bamboo-plugins/bamboo-vcsversion-plugin</module>
+
+        <!-- Gadgets -->
+        <module>bamboo-plugins/bamboo-gadgets</module>
+
+        <!-- Bundled v2.0 plugins -->
+        <module>bamboo-bundled-plugins</module>
+        <module>bamboo-plugins/bamboo-plugin-rest</module>
+    </modules>
+    <profiles>
+	  <profile>
+		<id>release</id>
+		<modules>
+		  <module>bamboo-agent-elastic-image-default</module>
+		</modules>
+	  </profile>
+      <profile>
+        <id>ami-dev</id>
+        <modules>
+          <module>bamboo-agent-elastic-image-default</module>
+        </modules>
+      </profile>
+      <profile>
+        <id>aws-tests</id>
+        <modules>
+          <module>bamboo-agent-elastic-tests</module>
+        </modules>
+      </profile>
+      <profile>
+        <id>functest</id>
+        <build>
+          <plugins>
+            <plugin>
+              <groupId>org.apache.maven.plugins</groupId>
+              <artifactId>maven-surefire-plugin</artifactId>
+              <configuration>
+                <skip>true</skip>
+              </configuration>
+            </plugin>
+          </plugins>
+        </build>
+      </profile>
+      <profile>
+        <id>uitest</id>
+        <build>
+          <plugins>
+            <plugin>
+              <groupId>org.apache.maven.plugins</groupId>
+              <artifactId>maven-surefire-plugin</artifactId>
+              <configuration>
+                <skip>true</skip>
+              </configuration>
+            </plugin>
+          </plugins>
+        </build>
+      </profile>
+      <profile>
+        <id>remoteAgentFuncTest</id>
+        <build>
+          <plugins>
+            <plugin>
+              <groupId>org.apache.maven.plugins</groupId>
+              <artifactId>maven-surefire-plugin</artifactId>
+              <configuration>
+                <skip>true</skip>
+              </configuration>
+            </plugin>
+          </plugins>
+        </build>
+      </profile>
+      <profile>
+        <id>salIntegrationTest</id>
+        <build>
+          <plugins>
+            <plugin>
+              <groupId>org.apache.maven.plugins</groupId>
+              <artifactId>maven-surefire-plugin</artifactId>
+              <configuration>
+                <skip>true</skip>
+              </configuration>
+            </plugin>
+          </plugins>
+        </build>
+      </profile>
+    </profiles>
+</project>
