@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jun 05 18:47:28 CST 2017
+asm-5.1.jar>nexus-aliyun=
+asm-5.1.pom>internal-repository=
+asm-5.1.jar>internal-repository=
+asm-5.1.pom>nexus-aliyun=

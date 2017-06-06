@@ -1,4 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu Nov 24 10:52:03 CST 2016
+#Thu Jun 01 16:40:23 CST 2017
+cdi-api-1.0.jar>central=
+cdi-api-1.0.pom>central=
 cdi-api-1.0.jar>internal-repository=
 cdi-api-1.0.pom>internal-repository=

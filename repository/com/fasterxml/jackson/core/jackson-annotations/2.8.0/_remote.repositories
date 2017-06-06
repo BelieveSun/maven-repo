@@ -1,4 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 12 15:57:31 CST 2016
+#Fri Jun 02 10:33:16 CST 2017
 jackson-annotations-2.8.0.jar>internal-repository=
 jackson-annotations-2.8.0.pom>internal-repository=
+jackson-annotations-2.8.0.jar>github-maven-repo=
+jackson-annotations-2.8.0.pom>github-maven-repo=

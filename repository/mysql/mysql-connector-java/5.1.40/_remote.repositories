@@ -1,6 +1,7 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri May 12 10:05:59 CST 2017
+#Thu Jun 01 14:56:41 CST 2017
+mysql-connector-java-5.1.40-sources.jar>central=
 mysql-connector-java-5.1.40.pom>central=
-mysql-connector-java-5.1.40.jar>central=
-mysql-connector-java-5.1.40.jar>internal-repository=
 mysql-connector-java-5.1.40.pom>internal-repository=
+mysql-connector-java-5.1.40.jar>internal-repository=
+mysql-connector-java-5.1.40.jar>central=

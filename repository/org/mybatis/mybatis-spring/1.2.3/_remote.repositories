@@ -1,7 +1,8 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed May 10 14:31:03 CST 2017
-mybatis-spring-1.2.3.pom>internal-repository=
+#Tue Jun 06 09:44:30 CST 2017
 mybatis-spring-1.2.3.jar>internal-repository=
-mybatis-spring-1.2.3.jar>central=
+mybatis-spring-1.2.3.pom>internal-repository=
 mybatis-spring-1.2.3-javadoc.jar>internal-repository=
+mybatis-spring-1.2.3.jar>central=
 mybatis-spring-1.2.3.pom>central=
+mybatis-spring-1.2.3-sources.jar>internal-repository=
