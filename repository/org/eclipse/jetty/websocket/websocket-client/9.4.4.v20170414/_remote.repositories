@@ -1,6 +1,8 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Jun 05 18:47:28 CST 2017
+#Thu Jul 13 13:58:25 CST 2017
 websocket-client-9.4.4.v20170414.jar>nexus-aliyun=
+websocket-client-9.4.4.v20170414.jar>central=
 websocket-client-9.4.4.v20170414.jar>internal-repository=
 websocket-client-9.4.4.v20170414.pom>internal-repository=
+websocket-client-9.4.4.v20170414.pom>central=
 websocket-client-9.4.4.v20170414.pom>nexus-aliyun=

@@ -1,7 +1,8 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed May 10 14:31:03 CST 2017
-jedis-2.8.0.pom>internal-repository=
+#Mon Jun 26 15:53:01 CST 2017
 jedis-2.8.0.jar>internal-repository=
-jedis-2.8.0-javadoc.jar>internal-repository=
+jedis-2.8.0.pom>internal-repository=
+jedis-2.8.0-sources.jar>central=
 jedis-2.8.0.jar>central=
+jedis-2.8.0-javadoc.jar>internal-repository=
 jedis-2.8.0.pom>central=

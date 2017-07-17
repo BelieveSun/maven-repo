@@ -1,7 +1,8 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Mar 13 14:05:26 CST 2017
+#Wed Jun 07 16:26:20 CST 2017
 https\://repository.cloudera.com/content/repositories/releases/.error=
 https\://mvnrepository.com/artifact/.lastUpdated=1489375516178
+https\://repo.maven.apache.org/maven2/.lastUpdated=1496823980489
 https\://repository.cloudera.com/content/repositories/releases/.lastUpdated=1489375405720
 https\://mvnrepository.com/artifact/.error=
 http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1489385126607

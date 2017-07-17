@@ -1,4 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu Nov 24 10:52:29 CST 2016
+#Fri Jul 14 18:06:11 CST 2017
 doxia-core-1.7.jar>internal-repository=
+doxia-core-1.7.jar>central=
 doxia-core-1.7.pom>internal-repository=
+doxia-core-1.7.pom>central=

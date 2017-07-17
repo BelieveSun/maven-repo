@@ -1,6 +1,9 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Jun 05 18:47:28 CST 2017
-jetty-server-9.4.4.v20170414.jar>internal-repository=
+#Thu Jul 13 13:58:25 CST 2017
 jetty-server-9.4.4.v20170414.pom>nexus-aliyun=
+jetty-server-9.4.4.v20170414.jar>internal-repository=
 jetty-server-9.4.4.v20170414.jar>nexus-aliyun=
 jetty-server-9.4.4.v20170414.pom>internal-repository=
+jetty-server-9.4.4.v20170414-sources.jar>central=
+jetty-server-9.4.4.v20170414.jar>central=
+jetty-server-9.4.4.v20170414.pom>central=

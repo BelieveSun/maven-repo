@@ -1,6 +1,7 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Jun 05 14:29:47 CST 2017
+#Tue Jun 06 17:37:27 CST 2017
 http\://repo.spring.io/milestone/.error=
+http\://nexus.allinmoney.com/content/groups/public/.lastUpdated=1496741847389
 https\://repo.maven.apache.org/maven2/.lastUpdated=1496644187298
 http\://repo.spring.io/snapshot/.lastUpdated=1496644186582
 http\://repo.spring.io/snapshot/.error=

@@ -1,6 +1,13 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Jun 05 18:47:14 CST 2017
-http\://nexus.allinmoney.com/content/groups/public/.lastUpdated=1496659634527
+#Fri Jul 14 18:05:03 CST 2017
+http\://repo.spring.io/ext-release-local/.error=
 https\://raw.githubusercontent.com/BelieveSun/maven-repo/master/repository/.lastUpdated=1496374420180
+http\://nexus.allinmoney.com/content/groups/public/.lastUpdated=1496659634527
+http\://repo.spring.io/snapshot/.lastUpdated=1500026702897
 https\://raw.githubusercontent.com/BelieveSun/maven-repo/master/repository/.error=
+http\://repo.spring.io/snapshot/.error=
 http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1496374421402
+http\://repo.spring.io/ext-release-local/.lastUpdated=1500026702285
+http\://repo.spring.io/milestone/.error=
+http\://repo.spring.io/milestone/.lastUpdated=1500026702655
+https\://repo.maven.apache.org/maven2/.lastUpdated=1500026703317

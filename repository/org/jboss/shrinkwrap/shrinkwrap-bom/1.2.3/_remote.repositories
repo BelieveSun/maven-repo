@@ -1,4 +1,5 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Jun 05 18:47:13 CST 2017
+#Fri Jul 14 18:05:01 CST 2017
 shrinkwrap-bom-1.2.3.pom>internal-repository=
 shrinkwrap-bom-1.2.3.pom>nexus-aliyun=
+shrinkwrap-bom-1.2.3.pom>central=

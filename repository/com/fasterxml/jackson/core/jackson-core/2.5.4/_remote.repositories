@@ -1,4 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue Dec 06 10:17:07 CST 2016
+#Wed Jun 07 16:26:33 CST 2017
 jackson-core-2.5.4.pom>internal-repository=
+jackson-core-2.5.4.pom>central=
+jackson-core-2.5.4.jar>central=
 jackson-core-2.5.4.jar>internal-repository=
