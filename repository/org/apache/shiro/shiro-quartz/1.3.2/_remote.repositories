@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jul 20 18:39:17 CST 2017
+shiro-quartz-1.3.2.jar>nexus-aliyun=
+shiro-quartz-1.3.2.jar>internal-repository=
+shiro-quartz-1.3.2.pom>internal-repository=
+shiro-quartz-1.3.2-sources.jar>internal-repository=
+shiro-quartz-1.3.2-sources.jar>nexus-aliyun=
+shiro-quartz-1.3.2.pom>nexus-aliyun=

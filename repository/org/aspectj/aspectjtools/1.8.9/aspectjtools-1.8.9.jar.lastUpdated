@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jul 20 16:44:11 CST 2017
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1500540251804
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.aspectj\:aspectjtools\:jar\:1.8.9 from/to central (https\://repo.maven.apache.org/maven2)\: GET request of\: org/aspectj/aspectjtools/1.8.9/aspectjtools-1.8.9.jar from central failed

@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jul 20 18:43:31 CST 2017
+httpcore-4.4.6.pom>internal-repository=
+httpcore-4.4.6-sources.jar>nexus-aliyun=
+httpcore-4.4.6.pom>nexus-aliyun=
+httpcore-4.4.6.jar>nexus-aliyun=
+httpcore-4.4.6.jar>internal-repository=

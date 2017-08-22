@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jul 28 18:09:40 CST 2017
+redisson-3.3.0-sources.jar>internal-repository=
+redisson-3.3.0.jar>internal-repository=
+redisson-3.3.0.pom>internal-repository=

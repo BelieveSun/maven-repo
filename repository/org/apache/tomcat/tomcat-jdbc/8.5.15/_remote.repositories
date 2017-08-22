@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jul 20 18:43:13 CST 2017
+tomcat-jdbc-8.5.15.pom>nexus-aliyun=
+tomcat-jdbc-8.5.15.jar>internal-repository=
+tomcat-jdbc-8.5.15.pom>internal-repository=
+tomcat-jdbc-8.5.15.jar>nexus-aliyun=
+tomcat-jdbc-8.5.15-sources.jar>nexus-aliyun=

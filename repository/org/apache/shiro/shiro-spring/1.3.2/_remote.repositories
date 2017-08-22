@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jul 20 18:43:58 CST 2017
+shiro-spring-1.3.2.pom>nexus-aliyun=
+shiro-spring-1.3.2.jar>internal-repository=
+shiro-spring-1.3.2.pom>internal-repository=
+shiro-spring-1.3.2-sources.jar>internal-repository=
+shiro-spring-1.3.2.jar>nexus-aliyun=
+shiro-spring-1.3.2-sources.jar>nexus-aliyun=

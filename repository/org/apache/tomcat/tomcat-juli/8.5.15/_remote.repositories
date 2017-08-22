@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jul 20 18:44:08 CST 2017
+tomcat-juli-8.5.15.jar>internal-repository=
+tomcat-juli-8.5.15.pom>internal-repository=
+tomcat-juli-8.5.15.pom>nexus-aliyun=
+tomcat-juli-8.5.15.jar>nexus-aliyun=
+tomcat-juli-8.5.15-sources.jar>nexus-aliyun=
