@@ -1,7 +1,8 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri May 12 10:05:59 CST 2017
-springfox-core-2.6.1.pom>central=
+#Thu Jul 20 18:39:17 CST 2017
 springfox-core-2.6.1-sources.jar>internal-repository=
-springfox-core-2.6.1.pom>internal-repository=
+springfox-core-2.6.1.pom>central=
+springfox-core-2.6.1-sources.jar>github-maven-repo=
 springfox-core-2.6.1.jar>internal-repository=
+springfox-core-2.6.1.pom>internal-repository=
 springfox-core-2.6.1.jar>central=

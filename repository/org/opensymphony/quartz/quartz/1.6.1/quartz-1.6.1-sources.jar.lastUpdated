@@ -1,4 +1,10 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu Dec 08 15:27:28 CST 2016
+#Thu Jul 20 18:43:39 CST 2017
 http\://nexus.allinmoney.com/content/groups/public/.lastUpdated=1481182048271
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+https\://raw.githubusercontent.com/BelieveSun/maven-repo/master/repository/.lastUpdated=1500547419184
+https\://repo.maven.apache.org/maven2/.lastUpdated=1500547419894
 http\://nexus.allinmoney.com/content/groups/public/.error=
+https\://raw.githubusercontent.com/BelieveSun/maven-repo/master/repository/.error=
+https\://repo.maven.apache.org/maven2/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1500547419492

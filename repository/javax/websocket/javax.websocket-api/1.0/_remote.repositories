@@ -1,6 +1,7 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri May 12 10:20:46 CST 2017
+#Thu Jul 20 18:43:25 CST 2017
 javax.websocket-api-1.0.jar>internal-repository=
 javax.websocket-api-1.0.pom>internal-repository=
 javax.websocket-api-1.0.jar>central=
 javax.websocket-api-1.0.pom>central=
+javax.websocket-api-1.0-sources.jar>nexus-aliyun=

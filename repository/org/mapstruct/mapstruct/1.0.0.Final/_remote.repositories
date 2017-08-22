@@ -1,6 +1,7 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri May 12 10:05:59 CST 2017
+#Thu Jul 20 18:43:37 CST 2017
 mapstruct-1.0.0.Final.jar>internal-repository=
 mapstruct-1.0.0.Final.pom>internal-repository=
+mapstruct-1.0.0.Final-sources.jar>nexus-aliyun=
 mapstruct-1.0.0.Final.jar>central=
 mapstruct-1.0.0.Final.pom>central=

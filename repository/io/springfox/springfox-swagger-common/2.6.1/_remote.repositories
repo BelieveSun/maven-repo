@@ -1,6 +1,7 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri May 12 10:05:59 CST 2017
+#Thu Jul 20 18:39:21 CST 2017
 springfox-swagger-common-2.6.1.pom>central=
 springfox-swagger-common-2.6.1.jar>internal-repository=
 springfox-swagger-common-2.6.1.pom>internal-repository=
+springfox-swagger-common-2.6.1-sources.jar>nexus-aliyun=
 springfox-swagger-common-2.6.1.jar>central=

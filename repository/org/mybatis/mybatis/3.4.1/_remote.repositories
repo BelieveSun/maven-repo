@@ -1,9 +1,10 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue Jun 06 10:21:17 CST 2017
+#Thu Jul 20 18:39:39 CST 2017
 mybatis-3.4.1.pom>nexus-aliyun=
 mybatis-3.4.1.jar>nexus-aliyun=
-mybatis-3.4.1.jar>github-maven-repo=
 mybatis-3.4.1.jar>internal-repository=
+mybatis-3.4.1.jar>github-maven-repo=
 mybatis-3.4.1-sources.jar>internal-repository=
 mybatis-3.4.1.pom>internal-repository=
 mybatis-3.4.1.pom>github-maven-repo=
+mybatis-3.4.1-sources.jar>github-maven-repo=

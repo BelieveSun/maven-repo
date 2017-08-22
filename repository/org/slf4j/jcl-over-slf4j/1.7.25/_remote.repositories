@@ -1,5 +1,5 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Jul 14 18:05:37 CST 2017
+#Thu Jul 20 18:43:16 CST 2017
 jcl-over-slf4j-1.7.25.jar>archive=
 jcl-over-slf4j-1.7.25.pom>archive=
 jcl-over-slf4j-1.7.25.jar>central=
@@ -8,4 +8,5 @@ jcl-over-slf4j-1.7.25.jar>internal-repository=
 jcl-over-slf4j-1.7.25.pom>internal-repository=
 jcl-over-slf4j-1.7.25.pom>github-maven-repo=
 jcl-over-slf4j-1.7.25.jar>github-maven-repo=
+jcl-over-slf4j-1.7.25-sources.jar>nexus-aliyun=
 jcl-over-slf4j-1.7.25-sources.jar>internal-repository=

@@ -1,8 +1,9 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Jun 23 14:48:32 CST 2017
+#Thu Jul 20 18:43:04 CST 2017
 druid-1.0.19.pom>central=
 druid-1.0.19-javadoc.jar>internal-repository=
-druid-1.0.19-sources.jar>internal-repository=
+druid-1.0.19-sources.jar>nexus-aliyun=
 druid-1.0.19.jar>internal-repository=
+druid-1.0.19-sources.jar>internal-repository=
 druid-1.0.19.pom>internal-repository=
 druid-1.0.19.jar>central=

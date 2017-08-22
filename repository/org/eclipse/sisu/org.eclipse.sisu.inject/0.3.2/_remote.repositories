@@ -1,5 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu Jun 01 16:40:23 CST 2017
+#Thu Jul 20 18:39:07 CST 2017
+org.eclipse.sisu.inject-0.3.2-sources.jar>nexus-aliyun=
 org.eclipse.sisu.inject-0.3.2.jar>internal-repository=
 org.eclipse.sisu.inject-0.3.2.pom>internal-repository=
 org.eclipse.sisu.inject-0.3.2.jar>central=

@@ -1,6 +1,7 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu Jun 01 16:40:23 CST 2017
-maven-artifact-3.3.9.jar>central=
+#Thu Jul 20 18:43:15 CST 2017
 maven-artifact-3.3.9.jar>internal-repository=
-maven-artifact-3.3.9.pom>internal-repository=
+maven-artifact-3.3.9.jar>central=
+maven-artifact-3.3.9-sources.jar>nexus-aliyun=
 maven-artifact-3.3.9.pom>central=
+maven-artifact-3.3.9.pom>internal-repository=

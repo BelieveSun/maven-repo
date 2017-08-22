@@ -1,6 +1,7 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri May 12 10:05:59 CST 2017
+#Thu Jul 20 18:43:35 CST 2017
 swagger-models-1.5.10.pom>internal-repository=
 swagger-models-1.5.10.jar>central=
 swagger-models-1.5.10.pom>central=
+swagger-models-1.5.10-sources.jar>nexus-aliyun=
 swagger-models-1.5.10.jar>internal-repository=
